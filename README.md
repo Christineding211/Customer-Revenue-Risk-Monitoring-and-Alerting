@@ -1,4 +1,4 @@
-# RevTrend-AI-Customer-Segmentation-Revenue-Risk-System
+# Customer Revenue Risk Monitoring and Alerting  
 An interactive dashboard for identifying revenue decline, customer segmentation, and generating insights with LLMs, enabling businesses to take timely, data-driven action.
 
 
