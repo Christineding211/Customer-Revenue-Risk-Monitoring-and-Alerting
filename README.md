@@ -30,7 +30,7 @@ An interactive dashboard for identifying revenue decline, customer segmentation,
 
   **Figure 1. Cluster Comparison Radar Charts (Z-score Normalised)**  
   This visual compares customer behavioural patterns across clusters based on revenue slope, volatility, and activity level. Cluster 2 shows distinctive traits, while Clusters 0 & 1 are more similar.
-  <img width="849" height="438" alt="image" src="https://github.com/user-attachments/assets/dcac1c5c-debd-46b4-8ecf-b47b51d06bc3" />
+
 
 
 ### 3. Interactive Trend Diagnostics
